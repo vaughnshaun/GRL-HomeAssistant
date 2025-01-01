@@ -1,0 +1,1 @@
+https://community.home-assistant.io/t/home-assistant-and-esphome-in-docker/450525
